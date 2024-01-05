@@ -1,6 +1,8 @@
 # cog-parakeet-rnnt-1.1b
 nvidia/parakeet-rnnt-1.1b running in Replicate Cog container ⚙️
 
+[![Replicate](https://replicate.com/nvlabs/parakeet-rnnt-1.1b/badge)](https://replicate.com/nvlabs/parakeet-rnnt-1.1b)
+
 # Parakeet RNNT 1.1B 🦜
 
 *Tweet by Vaibhav (VB) Srivastav (@reach_vb): "Parakeet RNNT & CTC models top the Open ASR Leaderboard! With @NVIDIAAI and @suno_ai_, parakeet surpasses Whisper, reclaiming the top spot."*
